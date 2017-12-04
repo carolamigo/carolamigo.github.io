@@ -36,7 +36,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
-/* fonts */
+/* 
 @font-face {
   font-family: "SQMarket";
   src: url("/fonts/sqmarket-bold.eot");
@@ -120,7 +120,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   src: url("/fonts/sqmarket-regularitalic.eot?#iefix") format("eot"), url("/fonts/sqmarket-regularitalic.woff") format("woff"), url("/fonts/sqmarket-regularitalic.ttf") format("truetype");
   font-weight: normal;
   font-style: italic;
-}
+}fonts */
 
 /* sprites */
 .directory-icons-sprite, .logo:after, .logo h1, .search-field:before, .focus .search-field:before, .half .search-location-button, .half .search-location-button:hover, .half .search-location-button:focus, .full .search-location-button, .full .search-location-button.location-expanded:hover, .full .search-location-button.location-expanded:focus, .full .search-location-button.location-on, .search-swap-button, .navigation-picture, .navigation-picture:hover, .navigation-picture:focus, .navigation-picture:active, .icon-square-footer, .icon-mobile-merchant, .icon-left-arrow, .icon-right-arrow {
